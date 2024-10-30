@@ -92,12 +92,12 @@ SPDX-License-Identifier: EPL-2.0
                 -relative ${org.eclipse.justj.p2.manager.relative}
                 -version-iu org.eclipse.gef.sdk.feature.group
                 -iu-filter-pattern org.eclipse.gef.*
-                -commit https://github.com/eclipse/gef/commit/${commit.id}
+                -commit https://github.com/eclipse-gef/gef/commit/${commit.id}
                 -target-url https://download.eclipse.org/tools/gef
                 -promote ${project.basedir}/../../org.eclipse.gef.repository/target/repository
                 -timestamp ${build.timestamp}
                 -type ${build.type}
-                -favicon https://raw.githubusercontent.com/eclipse/gef/master/org.eclipse.gef.common/gef_eclipse_logo_32.png
+                -favicon https://raw.githubusercontent.com/eclipse-git/gef/master/org.eclipse.gef.common/gef_eclipse_logo_32.png
                 -body-image https://projects.eclipse.org/sites/default/files/GEF_eclipse_logo.png
                 -breadcrumb "GEF https://projects.eclipse.org/projects/tools.gef"
                 -mapping gef->GEF

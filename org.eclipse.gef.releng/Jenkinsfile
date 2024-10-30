@@ -120,7 +120,7 @@ BRANCH_NAME=${env.BRANCH_NAME}
               extensions: [
                 [$class: 'RelativeTargetDirectory', relativeTargetDir: 'gef.wiki/']
               ],
-              userRemoteConfigs: [[url: 'https://github.com/eclipse/gef.wiki.git' ]]
+              userRemoteConfigs: [[url: 'https://github.com/eclipse-gef/gef.wiki.git' ]]
             ]
           )
         }

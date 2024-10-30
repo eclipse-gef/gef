@@ -19,7 +19,7 @@
       <repository location="https://download.eclipse.org/modeling/emf/emf/builds/milestone/latest"/>
       <repository location="https://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.33.0"/>
       <repository location="https://download.eclipse.org/modeling/emft/mwe/updates/releases/2.16.0"/>
-      <repository location="https://download.eclipse.org/eclipse/updates/4.31-I-builds"/>
+      <repository location="https://download.eclipse.org/eclipse/updates/4.31"/>
     </location>
   </locations>
 </target>

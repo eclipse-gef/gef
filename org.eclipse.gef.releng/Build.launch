@@ -14,6 +14,7 @@
         <listEntry value="org.eclipse.justj.p2.manager.args=-remote localhost:${project_loc:/org.eclipse.gef.releng}/gef-updates"/>
         <listEntry value="build.type=nightly"/>
         <listEntry value="target-platform=2024-03"/>
+        <listEntry value="user.home=${system_property:user.home}"/>
     </listAttribute>
     <stringAttribute key="M2_RUNTIME" value="EMBEDDED"/>
     <booleanAttribute key="M2_SKIP_TESTS" value="false"/>
