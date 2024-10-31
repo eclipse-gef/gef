@@ -6,7 +6,7 @@ This guide provides all necessary information to enable [contributors and commit
 
 You can set up a pre-configured IDE for the development of GEF FX using the following link:
 
-[![Create Eclipse Development Environment for GEF Classic](https://download.eclipse.org/oomph/www/setups/svg/GEF_FX.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-git/gef/master/org.eclipse.gef.releng/GEFConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
+[![Create Eclipse Development Environment for GEF Classic](https://download.eclipse.org/oomph/www/setups/svg/GEF_FX.svg)](https://www.eclipse.org/setups/installer/?url=https://raw.githubusercontent.com/eclipse-gef/gef/master/org.eclipse.gef.releng/GEFConfiguration.setup&show=true "Click to open Eclipse-Installer Auto Launch or drag onto your running installer's title area")
 
 This automates all the steps below, many of which are outdated.
 

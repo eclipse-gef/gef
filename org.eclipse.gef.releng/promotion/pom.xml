@@ -97,7 +97,7 @@ SPDX-License-Identifier: EPL-2.0
                 -promote ${project.basedir}/../../org.eclipse.gef.repository/target/repository
                 -timestamp ${build.timestamp}
                 -type ${build.type}
-                -favicon https://raw.githubusercontent.com/eclipse-git/gef/master/org.eclipse.gef.common/gef_eclipse_logo_32.png
+                -favicon https://raw.githubusercontent.com/eclipse-gef/gef/master/org.eclipse.gef.common/gef_eclipse_logo_32.png
                 -body-image https://projects.eclipse.org/sites/default/files/GEF_eclipse_logo.png
                 -breadcrumb "GEF https://projects.eclipse.org/projects/tools.gef"
                 -mapping gef->GEF
