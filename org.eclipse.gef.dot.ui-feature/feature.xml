@@ -13,7 +13,7 @@
 <feature
       id="org.eclipse.gef.dot.ui"
       label="GEF DOT.UI"
-      version="5.1.3.qualifier"
+      version="5.1.4.qualifier"
       provider-name="Eclipse GEF"
       plugin="org.eclipse.gef.dot.ui"
       license-feature="org.eclipse.license"

@@ -25,7 +25,7 @@
 		<maven-resources-plugin.version>3.2.0</maven-resources-plugin.version>
 		<maven-antrun-plugin.version>3.1.0</maven-antrun-plugin.version>
 		<maven-clean-plugin.version>3.2.0</maven-clean-plugin.version>
-		<tycho.version>4.0.9</tycho.version>
+		<tycho.version>4.0.10</tycho.version>
 		<target-platform>2023-12</target-platform>
 		<cbi-plugins.version>1.5.0</cbi-plugins.version>
 		<exec-maven-plugin.version>3.1.1</exec-maven-plugin.version>
