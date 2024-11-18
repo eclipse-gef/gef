@@ -22,7 +22,7 @@
 	</parent>
 	<groupId>org.eclipse.gef.features</groupId>
 	<artifactId>org.eclipse.gef.dot.user</artifactId>
-	<version>5.1.3-SNAPSHOT</version>
+	<version>5.1.4-SNAPSHOT</version>
 	<packaging>eclipse-feature</packaging>
 	<build>
 		<plugins>

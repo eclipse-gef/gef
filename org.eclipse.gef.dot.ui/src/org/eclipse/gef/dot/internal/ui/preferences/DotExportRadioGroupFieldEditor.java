@@ -239,6 +239,7 @@ public class DotExportRadioGroupFieldEditor extends RadioGroupFieldEditor {
 				public void widgetDisposed(DisposeEvent event) {
 					radioBox = null;
 					radioButtons = null;
+					boldFont.dispose();
 				}
 
 			});
